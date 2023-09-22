@@ -1,0 +1,5 @@
+- decision trees
+- knn
+- random forests
+- polynomial regression
+- Gradient Descent Regression
